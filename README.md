@@ -4,7 +4,18 @@
 - 💞️ I’m looking to collaborate on anything with anybody
 - 📫 reach me @ ahrmerd@gmail.com
 
-<!---
-trikss/trikss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## &#x1f4c8; GitHub Stats Overview
+<a href="https://github.com/ahrmerd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahrmerd&count_private=true&show_icons=true&theme=dracula" alt="Nwachukwu Goodness" GitHub Stats" />
+</a>
+
+#
+<a href="https://github.com/ahrmerd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrmerd&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
+</a>
+
+
+#
+<a href="https://github.com/ahrmerd">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ahrmerd&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a> 
