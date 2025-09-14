@@ -6,12 +6,12 @@
 
 ## &#x1f4c8; GitHub Stats Overview
 <a href="https://github.com/ahrmerd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahrmerd&count_private=true&show_icons=true&theme=dracula" alt="Nwachukwu Goodness" GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-kappa-six-47.vercel.app/api?username=ahrmerd&count_private=true&show_icons=true&theme=dracula" alt="ahrmerd" GitHub Stats" />
 </a>
 
 #
 <a href="https://github.com/ahrmerd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrmerd&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-kappa-six-47.vercel.app/api/top-langs/?username=ahrmerd&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
 
 
